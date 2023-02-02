@@ -17,8 +17,15 @@
   },
   "homepage": "https://github.com/andrevcampos/bcsystem_nodejs#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.9.0",
+    "request": "^2.88.2",
     "slugify": "^1.6.5",
-    "superagent": "^8.0.6"
+    "superagent": "^8.0.6",
+    "url": "^0.11.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
